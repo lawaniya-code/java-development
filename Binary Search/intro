@@ -1,0 +1,7 @@
+******************BINARY SEARCH*************
+
+smart algorithm
+used: when sorted search space is there 
+kyun hota hai? ==> time complexity sudhar deta hai 
+          agar O(n2)toh O(nlogn ) bana dega  
+

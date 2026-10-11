@@ -1,0 +1,18 @@
+import java.util.Scanner;
+public class numberpattern {
+    public static void main(String[] args) {
+        Scanner sc= new Scanner(System.in);
+        int m,n;
+        System.out.print("Enter the number of rows:");
+        m=sc.nextInt();
+        System.out.print("Enter the number of upto which series is to be printed:");
+        n=sc.nextInt();
+        for(int i=1;i<=m;i++){
+            for(int j=1 ;j<=n;j++){
+                System.out.print(j);
+            }
+            System.out.println();
+        }
+
+    }
+}
